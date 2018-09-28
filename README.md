@@ -10,10 +10,10 @@ MATRÍCULA
   ESTADO  	CÓDIGO	
 	       DECIMAL	BINÁRIO
     0	     2    	  010
-    2	     4      	100
-    3	     6	      110
-    4	     5	      101
-    5      3	      011
+    2	     4      	  100
+    3	     6	      	  110
+    4	     5	          101
+    5        3	          011
 
 		
 		
